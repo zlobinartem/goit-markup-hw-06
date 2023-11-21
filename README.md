@@ -1,4 +1,4 @@
-# goit-markup-hw-05
+# goit-markup-hw-06
 
-module-5
-https://zlobinartem.github.io/goit-markup-hw-05/
+module-6
+https://zlobinartem.github.io/goit-markup-hw-06/
